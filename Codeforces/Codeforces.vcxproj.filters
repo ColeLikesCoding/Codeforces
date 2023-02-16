@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\past">
+      <UniqueIdentifier>{8e73ca0b-1ade-4ade-abef-541aaf5463e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\contest">
+      <UniqueIdentifier>{5e35788f-8ad3-4ef9-901f-8f04ad295636}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1770A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1299A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="71A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1765K.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="231A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="4A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="F.cpp">
+      <Filter>Source Files\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="G.cpp">
+      <Filter>Source Files\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="H.cpp">
+      <Filter>Source Files\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="73A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1779A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1779B.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1779C.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1303C.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1783A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1783B.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1783C.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1768A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1768B.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="520B.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="803E.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1781B.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1781A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1783E.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1777B.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1777A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1787A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1787B.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1778A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1791C.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1791A.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1791B.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1791D.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1786A1.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1786A2.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1786B.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1786C.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="1786D.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+    <ClCompile Include="A.cpp">
+      <Filter>Source Files\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="B.cpp">
+      <Filter>Source Files\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="C.cpp">
+      <Filter>Source Files\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="D.cpp">
+      <Filter>Source Files\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="E.cpp">
+      <Filter>Source Files\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="1607D.cpp">
+      <Filter>Source Files\past</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="template.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
